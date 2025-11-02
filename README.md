@@ -1,1 +1,1 @@
-![Alt text] (Mapty.png)
+![Alt text](Mapty.png)
